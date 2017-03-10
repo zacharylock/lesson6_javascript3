@@ -4,17 +4,16 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(March 10, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Zachary Lock)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(creating a photo gallery )
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+( https://zacharylock.github.io/lesson6_javascript3/. )
 
 ### Lessons Learned in the Assignment:
 1. (Briefly describe a lesson/concept learned in this lesson.)
